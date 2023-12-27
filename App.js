@@ -47,6 +47,7 @@ const styles = StyleSheet.create({
     flex: 1,
     backgroundColor: "#e2e8f0",
     padding: 20,
+    paddingTop: StatusBar.currentHeight
   },
   view: {
     marginTop: 20
